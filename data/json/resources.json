@@ -1,32 +1,17 @@
 [
   {
-    "name": "Next.js",
-    "description": "The React Framework for the Web",
-    "url": "https://nextjs.org/"
+    "name": "Official website",
+    "description": "Learn about the latest developments in Yandere Dark Elf anime",
+    "url": "https://aiomodarkelf.deregula.com/"
   },
   {
-    "name": "Tailwind CSS",
-    "description": "A utility-first CSS framework",
-    "url": "https://tailwindcss.com/"
+    "name": "comic link",
+    "description": "Preview for free or purchase the electronic version of the Yandere Dark Elf comic",
+    "url": "https://gammaplus.takeshobo.co.jp/manga/aigaomoi_darkelf/"
   },
   {
-    "name": "Shadcn/ui",
-    "description": "Re-usable components built with Radix UI and Tailwind CSS",
-    "url": "https://ui.shadcn.com/"
-  },
-  {
-    "name": "Vercel",
-    "description": "Cloud platform for static sites and Serverless Functions",
-    "url": "https://vercel.com/"
-  },
-  {
-    "name": "Github.com",
-    "description": "The world's leading platform for version control and collaborative software development.",
-    "url": "https://github.com/"
-  },
-  {
-    "name": "Woy.ai",
-    "description": "AI Tools Directory",
-    "url": "https://woy.ai"
+    "name": "Purchase channels",
+    "description": "Buy the electronic version or physical book of Yandere Dark Elf comics",
+    "url": "https://comic.iowl.jp/titles/176119/volumes"
   }
 ]

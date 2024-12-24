@@ -8,10 +8,10 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
-    default: 'GitBase',
-    template: '%s | GitBase'
+    default: 'Yandere Dark Elf',
+    template: '%s | Yandere Dark Elf'
   },
-  description: 'Open source dynamic website without database, built with Next.js and GitHub API',
+  description: 'Explore the dark fantasy world of Yandere Dark Elf, featuring thrilling stories and complex characters.',
 }
 
 interface RootLayoutProps {
