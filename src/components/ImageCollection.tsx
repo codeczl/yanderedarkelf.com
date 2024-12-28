@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import Image from 'next/image'
 
 const imageDetails = [
   "Yandere Dark Elf Expression One",
@@ -56,10 +57,12 @@ export default function ImageCollection() {
               <div className="absolute -inset-2 border-2 border-black opacity-10 transform -rotate-1" />
               
               <div className="relative bg-white p-3 rounded-lg border-2 border-gray-900 shadow-md">
-                <img
+                <Image
                   src={`/pic/${index + 1}.png`}
                   alt={title}
                   className="w-full h-auto rounded-md object-cover aspect-[4/3]"
+                  width={500}
+                  height={300}
                   loading="lazy"
                 />
                 
@@ -126,10 +129,12 @@ export default function ImageCollection() {
                 </svg>
               </button>
 
-              <img
+              <Image
                 src={selectedImage.src}
                 alt={selectedImage.title}
                 className="max-h-[90vh] max-w-full object-contain mx-auto"
+                width={500}
+                height={300}
                 onClick={(e) => e.stopPropagation()}
               />
 

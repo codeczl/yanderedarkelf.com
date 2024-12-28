@@ -140,7 +140,7 @@ export default function Home() {
      <div className="absolute inset-0">
        {/* 左侧图片背景 */}
        <div className="absolute left-0 w-1/4 h-full">
-         <img 
+         <Image 
            src="/pic/zhanli.png" 
            alt="background" 
            className="w-full h-full object-cover opacity-90"
