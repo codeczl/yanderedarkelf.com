@@ -70,25 +70,45 @@ export default function AdminPage() {
   };
 
   const handleSave = async (index) => {
-    let updatedResources = [...resources];
-    if (index === -1) {
-      updatedResources.push(newResource);
-      setNewResource({ name: '', description: '', url: '' });
-    }
     try {
-      const response = await fetch('/api/resources', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(updatedResources),
-      });
-      if (!response.ok) {
-        throw new Error('Failed to save resources');
+      const token = localStorage.getItem('auth_token');
+      console.log('Using token:', token);
+
+      if (!token) {
+        throw new Error('No authentication token found');
       }
-      await fetchResources(); // Fetch the latest data after saving
+
+      let updatedResources = [...resources];
+      if (index === -1) {
+        const newResourceData = {
+          title: newResource.name,
+          description: newResource.description,
+          url: newResource.url
+        };
+        updatedResources.push(newResourceData);
+      }
+
+      const response = await fetch('/api/resources?source=github', {
+        method: 'POST',
+        headers: { 
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify(updatedResources),
+        cache: 'no-store'
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.error || 'Failed to save resources');
+      }
+
+      setNewResource({ name: '', description: '', url: '' });
+      await fetchResources();
       setEditingIndex(null);
     } catch (error) {
-      console.error('Error saving resources:', error);
-      setError('Failed to save resources. Please try again.');
+      console.error('Save error:', error);
+      setError(error.message);
     }
   };
 

@@ -1,42 +1,31 @@
 // components/ResourceList.js
 import Link from 'next/link'
 import { ExternalLink } from 'lucide-react'
-import {
-  Card,
-  CardHeader,
-  CardTitle,
-  CardDescription,
-} from "@/components/ui/card"
 
-export default function ResourceList({ resources, showMoreLink = true }) {
+export default function ResourceList({ resources }) {
   return (
-    <section>
-      <div className="flex justify-between items-center mb-6">
-        <h2 className="text-3xl font-bold tracking-tighter">Resources</h2>
-        {showMoreLink && (
-          <Link href="/resources" className="text-blue-600 hover:text-blue-800 transition-colors">
-            More resources →
-          </Link>
-        )}
-      </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-        {resources.map((resource, index) => (
-          <Card key={index}>
-            <CardHeader>
-              <a 
-                href={resource.url} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="text-blue-600 hover:text-blue-800 transition-colors inline-flex items-center gap-1"
-              >
-                <CardTitle>{resource.name}</CardTitle>
-                <ExternalLink size={16} />
-              </a>
-              <CardDescription>{resource.description}</CardDescription>
-            </CardHeader>
-          </Card>
-        ))}
-      </div>
-    </section>
-  )
+    <div className="max-w-2xl mx-auto">
+      {resources.map((resource, index) => (
+        <div key={index} className="relative transform hover:scale-105 transition-transform mb-6">
+          <div className="absolute -inset-2 border-2 border-black opacity-10 transform rotate-1"></div>
+          <div className="absolute -inset-2 border-2 border-black opacity-10 transform -rotate-1"></div>
+          <div className="bg-white/90 p-6 rounded-lg border-2 border-gray-900">
+            <div className="flex items-center gap-2 mb-2">
+              <strong className="inline-block transform -rotate-1 bg-black text-white px-3 py-1">
+                {resource.title}
+              </strong>
+              <ExternalLink className="w-4 h-4 text-gray-500" />
+            </div>
+            <Link href={resource.url} target="_blank"
+              className="relative inline-block text-gray-800
+              after:absolute after:bottom-0 after:left-0 after:w-full 
+              after:h-[3px] after:bg-gray-200 hover:after:bg-gray-400
+              transform hover:-rotate-1 transition-all">
+              {resource.description}
+            </Link>
+          </div>
+        </div>
+      ))}
+    </div>
+  );
 }

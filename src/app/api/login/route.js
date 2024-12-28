@@ -4,6 +4,10 @@ import { createToken } from '@/lib/auth';
 export async function POST(request) {
   const { password } = await request.json();
   
+  console.log('Received password:', password);
+  console.log('Expected password:', process.env.ACCESS_PASSWORD);
+  console.log('Are they equal?', password === process.env.ACCESS_PASSWORD);
+  
   if (password === process.env.ACCESS_PASSWORD) {
     const token = createToken();
     

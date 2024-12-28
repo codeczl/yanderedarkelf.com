@@ -2,6 +2,24 @@
 import Link from 'next/link';
 
 export function Footer() {
+  const resources = [
+    {
+      title: "Official Website",
+      url: "https://aiomodarkelf.deregula.com/",
+      description: "Visit our official website"
+    },
+    {
+      title: "Twitter",
+      url: "https://x.com/nakano_sora/highlights",
+      description: "Follow us on Twitter"
+    },
+    {
+      title: "Email: czhenglong451@gmail.com",
+      url: "mailto:czhenglong451@gmail.com",
+      description: "Email: czhenglong451@gmail.com"
+    }
+  ];
+
   return (
     <footer className="bg-gray-100 border-t border-gray-200">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
@@ -29,7 +47,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/#articles" className="text-base text-gray-500 hover:text-gray-900">
+                <Link href="/posts" className="text-base text-gray-500 hover:text-gray-900">
                   Articles
                 </Link>
               </li>
@@ -40,32 +58,17 @@ export function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-gray-600 tracking-wider uppercase">Connect</h3>
             <ul className="mt-4 space-y-4">
-              <li>
-                <a
-                  href="https://aiomodarkelf.deregula.com/"
-                  target="_blank"
-                  className="text-base text-gray-500 hover:text-gray-900"
-                >
-                  Official Website
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://x.com/nakano_sora/highlights"
-                  target="_blank"
-                  className="text-base text-gray-500 hover:text-gray-900"
-                >
-                  Twitter
-                </a>
-              </li>
-              <li>
-                <a
-                  href="mailto:essipicoc@gmail.com"
-                  className="text-base text-gray-500 hover:text-gray-900"
-                >
-                  Email: essipicoc@gmail.com
-                </a>
-              </li>
+              {resources.map((resource, index) => (
+                <li key={index}>
+                  <a
+                    href={resource.url}
+                    target={resource.url.startsWith('mailto:') ? undefined : '_blank'}
+                    className="text-base text-gray-500 hover:text-gray-900"
+                  >
+                    {resource.title}
+                  </a>
+                </li>
+              ))}
             </ul>
           </div>
         </div>

@@ -1,16 +1,16 @@
 [
   {
-    "name": "Official website",
+    "title": "Official website",
     "description": "Learn about the latest developments in Yandere Dark Elf anime",
     "url": "https://aiomodarkelf.deregula.com/"
   },
   {
-    "name": "comic link",
+    "title": "comic link",
     "description": "Preview for free or purchase the electronic version of the Yandere Dark Elf comic",
     "url": "https://gammaplus.takeshobo.co.jp/manga/aigaomoi_darkelf/"
   },
   {
-    "name": "Purchase channels",
+    "title": "Purchase channels",
     "description": "Buy the electronic version or physical book of Yandere Dark Elf comics",
     "url": "https://comic.iowl.jp/titles/176119/volumes"
   }

@@ -1,39 +1,28 @@
 // components/ArticleList.js
 import Link from 'next/link'
-import {
-  Card,
-  CardHeader,
-  CardTitle,
-  CardDescription,
-} from "@/components/ui/card"
 
-export default function ArticleList({ articles, showMoreLink = true }) {
+export default function ArticleList({ articles }) {
   return (
-    <section>
-      <div className="flex justify-between items-center mb-6">
-        <h2 className="text-3xl font-bold tracking-tighter">Articles</h2>
-        {showMoreLink && (
-          <Link href="/posts" className="text-blue-600 hover:text-blue-800 transition-colors">
-            More articles →
-          </Link>
-        )}
-      </div>
-      <div className="space-y-6">
-        {articles.map(({ id, title, description }) => (
-          <Card key={id}>
-            <CardHeader>
-              <Link 
-                href={`/posts/${id}`}
-                className="text-blue-600 hover:text-blue-800 transition-colors inline-flex items-center gap-1"
-              >
-                <CardTitle>{title}</CardTitle>
-                →
-              </Link>
-              <CardDescription>{description}</CardDescription>
-            </CardHeader>
-          </Card>
-        ))}
-      </div>
-    </section>
-  )
+    <div className="max-w-2xl mx-auto">
+      {articles.map((article, index) => (
+        <div key={index} className="relative transform hover:scale-105 transition-transform mb-6">
+          <div className="absolute -inset-2 border-2 border-black opacity-10 transform rotate-1"></div>
+          <div className="absolute -inset-2 border-2 border-black opacity-10 transform -rotate-1"></div>
+          <div className="bg-white/90 p-6 rounded-lg border-2 border-gray-900">
+            <strong className="inline-block transform rotate-1 bg-black text-white px-2 py-1 mb-2">
+              {article.title}
+            </strong>
+            <Link 
+              href={`/posts/${article.id}`}
+              className="relative inline-block text-gray-800 ml-2
+              after:absolute after:bottom-0 after:left-0 after:w-full 
+              after:h-[3px] after:bg-gray-200 hover:after:bg-gray-400
+              transform hover:rotate-1 transition-all">
+              Read more
+            </Link>
+          </div>
+        </div>
+      ))}
+    </div>
+  );
 }
