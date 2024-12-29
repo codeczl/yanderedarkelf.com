@@ -9,7 +9,8 @@ const nextConfig = {
   },
   images: {
     unoptimized: true, // 禁用图片优化（不推荐，但可以临时解决问题）
-  }
+  },
+  reactStrictMode: true,
 }
 
 module.exports = nextConfig 

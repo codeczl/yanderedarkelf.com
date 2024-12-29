@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yanderedarkelf.com/sitemap.xml 

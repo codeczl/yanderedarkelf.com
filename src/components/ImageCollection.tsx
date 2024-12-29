@@ -75,76 +75,82 @@ export default function ImageCollection() {
           ))}
         </div>
 
-        {/* 图片预览模态框 */}
-        {selectedImage && (
-          <div 
-            className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center"
-            onClick={() => setSelectedImage(null)}
-          >
-            <div className="relative max-w-7xl mx-auto px-4 py-8">
-              <button 
-                className="absolute top-4 right-4 text-white hover:text-gray-300 z-10"
-                onClick={() => setSelectedImage(null)}
-              >
-                <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
-                </svg>
-              </button>
+        <div className="mt-12 text-sm text-gray-600 border-t pt-8">
+          <p className="max-w-3xl mx-auto text-center">
+            The images used in this article are sourced from publicly available manga previews and are intended solely for informational and promotional purposes. Full credit goes to the talented creator of <em>Yandere Dark Elf</em>. If you are the copyright owner and believe any content infringes on your rights, please contact us via email, and we will promptly remove the material in question.
+          </p>
+        </div>
+      </div>
 
-              <button 
-                className="absolute left-4 top-1/2 transform -translate-y-1/2 text-white hover:text-gray-300"
-                onClick={(e) => {
-                  e.stopPropagation();
-                  const prevIndex = selectedImage.index - 1;
-                  if (prevIndex > 0) {
-                    setSelectedImage({
-                      src: `/pic/${prevIndex}.png`,
-                      title: imageDetails[prevIndex - 1],
-                      index: prevIndex
-                    });
-                  }
-                }}
-              >
-                <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
-                </svg>
-              </button>
+      {/* 图片预览模态框 */}
+      {selectedImage && (
+        <div 
+          className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center"
+          onClick={() => setSelectedImage(null)}
+        >
+          <div className="relative max-w-7xl mx-auto px-4 py-8">
+            <button 
+              className="absolute top-4 right-4 text-white hover:text-gray-300 z-10"
+              onClick={() => setSelectedImage(null)}
+            >
+              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
 
-              <button 
-                className="absolute right-4 top-1/2 transform -translate-y-1/2 text-white hover:text-gray-300"
-                onClick={(e) => {
-                  e.stopPropagation();
-                  const nextIndex = selectedImage.index + 1;
-                  if (nextIndex <= imageDetails.length) {
-                    setSelectedImage({
-                      src: `/pic/${nextIndex}.png`,
-                      title: imageDetails[nextIndex - 1],
-                      index: nextIndex
-                    });
-                  }
-                }}
-              >
-                <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
-                </svg>
-              </button>
+            <button 
+              className="absolute left-4 top-1/2 transform -translate-y-1/2 text-white hover:text-gray-300"
+              onClick={(e) => {
+                e.stopPropagation();
+                const prevIndex = selectedImage.index - 1;
+                if (prevIndex > 0) {
+                  setSelectedImage({
+                    src: `/pic/${prevIndex}.png`,
+                    title: imageDetails[prevIndex - 1],
+                    index: prevIndex
+                  });
+                }
+              }}
+            >
+              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
+              </svg>
+            </button>
 
-              <Image
-                src={selectedImage.src}
-                alt={selectedImage.title}
-                className="max-h-[90vh] max-w-full object-contain mx-auto"
-                width={500}
-                height={300}
-                onClick={(e) => e.stopPropagation()}
-              />
+            <button 
+              className="absolute right-4 top-1/2 transform -translate-y-1/2 text-white hover:text-gray-300"
+              onClick={(e) => {
+                e.stopPropagation();
+                const nextIndex = selectedImage.index + 1;
+                if (nextIndex <= imageDetails.length) {
+                  setSelectedImage({
+                    src: `/pic/${nextIndex}.png`,
+                    title: imageDetails[nextIndex - 1],
+                    index: nextIndex
+                  });
+                }
+              }}
+            >
+              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </button>
 
-              <div className="absolute bottom-4 left-0 right-0 text-center text-white">
-                <h3 className="text-xl font-bold">{selectedImage.title}</h3>
-              </div>
+            <Image
+              src={selectedImage.src}
+              alt={selectedImage.title}
+              className="max-h-[90vh] max-w-full object-contain mx-auto"
+              width={500}
+              height={300}
+              onClick={(e) => e.stopPropagation()}
+            />
+
+            <div className="absolute bottom-4 left-0 right-0 text-center text-white">
+              <h3 className="text-xl font-bold">{selectedImage.title}</h3>
             </div>
           </div>
-        )}
-      </div>
+        </div>
+      )}
     </section>
   );
 } 

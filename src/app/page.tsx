@@ -142,7 +142,9 @@ export default function Home() {
        <div className="absolute left-0 w-1/4 h-full">
          <Image 
            src="/pic/zhanli.png" 
-           alt="background" 
+           alt="welcome"
+           width={500}
+           height={300}
            className="w-full h-full object-cover opacity-90"
            style={{
              transform: 'scale(1)',

@@ -7,12 +7,19 @@ const inter = Inter({ subsets: ['latin'] })
 
 
 export const metadata: Metadata = {
-  title: 'Yandere Dark Elf',
-  description: 'Enter the mysterious and thrilling world of Yandere Dark Elf, where complex emotions and intense storylines await.',
+  title: 'Yandere Dark Elf: Explore the Dark Fantasy World',
+  description: 'A thrilling fantasy adventure featuring a dark elf heroine with complex emotions and intense storylines.',
+  keywords: ['yandere', 'dark elf', 'fantasy', 'manga', 'light novel'],
+  metadataBase: new URL('https://yanderedarkelf.com'),
+  alternates: {
+    canonical: '/'
+  },
   icons: {
-    icon: '/tb.ico',
-    shortcut: '/tb.ico',
-    apple: '/tb.ico',
+    icon: [
+      { url: '/tb.ico', sizes: '16x16' },
+      { url: '/tb.ico', sizes: '32x32' },
+    ],
+    apple: { url: '/tb.ico', sizes: '180x180' },
   }
 }
 
