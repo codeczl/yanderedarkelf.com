@@ -1,4 +1,3 @@
-google.com, pub-8919061004428483, DIRECT, f08c47fec0942fa0
 #gpx-属性-7N0GS
 #gpx-上次更新时间-2024-11-21
 #gpx-reviq
@@ -63,200 +62,200 @@ smartadserver.com, 4073, 经销商
 smartadserver.com, 4074, 经销商
 criteo.com, B-068838, 直销, 9fac4a4a87c2a44f
 themediagrid.com, Q6VXLE, 直达, 35d5010d7789b49d
-aps.amazon.com, 5d8ed25e-57cc-441a-b62a-127b34faae4e, DIRECT
-yahoo.com, 59704, RESELLER, e1a5b5b6e3255540 #VM-tag
-sharethrough.com, ZXZlB4L7, DIRECT, d53b998a7bd4ecd2
-rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
-openx.com, 540274407, RESELLER, 6a698e2ec38604c6
-33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
-smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
-yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
-smartadserver.com, 4342, RESELLER
-teads.tv, 25843, DIRECT, 15a9c44f6d26cbe1z
-rwadx.com, rw209mtasduinzgsxqpriqyfejxvmubnylu63e2356c0a23b, DIRECT
-readwhere.digital, rd891fiofzktecyodvubtsyqhutsincexqe63e23569bf264, DIRECT
-freewheel.tv, 1599079, DIRECT
-freewheel.tv, 1599080, RESELLER
-incrementx.com, 100161, DIRECT, 8728b7e97e589da4
-pubmatic.com, 163277, RESELLER, 5d62403b186f2ace
-lijit.com, 381276-eb, RESELLER, fafdf38b16bf6b2b
-rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
-# Adagio
-adagio.io, 1416, DIRECT
-rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
-pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
-improvedigital.com, 1790, RESELLER
-onetag.com, 6b859b96c564fbe, RESELLER
-appnexus.com, 13099, RESELLER
-pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
-33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
-yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
-appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
-rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
-pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807
-conversantmedia.com, 100141, RESELLER
-indexexchange.com, 191973, RESELLER, 50b1c356f2c5c8fc
-lijit.com, 367236, RESELLER, fafdf38b16bf6b2b
-openx.com, 538959099, RESELLER, 6a698e2ec38604c6
-rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
-freewheel.tv, 1568036, RESELLER
-freewheel.tv, 1568041, RESELLER
-openx.com, 558899373, RESELLER, 6a698e2ec38604c6
-e-planning.net, 83c06e81531537f4, RESELLER, c1ba615865ed87b2
-pubmatic.com, 156631, RESELLER, 5d62403b186f2ace
-openx.com, 541031350, RESELLER, 6a698e2ec38604c6
-rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
-video.unrulymedia.com, 5672421953199218469, RESELLER
-indexexchange.com, 194558, RESELLER
-smartadserver.com, 3554, RESELLER
-video.unrulymedia.com, 2564526802, RESELLER
-sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
-triplelift.com, 13482, RESELLER, 6c33edb13117fd86
-# Adapex
-yahoo.com, 59988, DIRECT, e1a5b5b6e3255540
-pubmatic.com, 157007, DIRECT, 5d62403b186f2ace
-aps.amazon.com, 1ad7261b-91ea-4b6f-b9e9-b83522205b75, DIRECT
-appnexus.com, 7847, RESELLER, f5ab79cb980f11d1
-rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
-openx.com, 540191398, RESELLER, 6a698e2ec38604c6
-smaato.com, 1100044650, RESELLER, 07bcf65f187117b4
-ad-generation.jp, 12474, RESELLER, 7f4ea9029ac04e53
-districtm.io, 100962, RESELLER, 3fd707be9c4527c3
-appnexus.com, 3663, RESELLER, f5ab79cb980f11d1
-rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47
-gumgum.com, 14141, RESELLER, ffdef49475d318a9
-sharethrough.com, 7144eb80, RESELLER, d53b998a7bd4ecd2
-emxdgt.com, 2009, RESELLER, 1e1d41537f7cad7f
-contextweb.com, 562541, RESELLER, 89ff185a4c4e857c
-themediagrid.com, JTQKMP, RESELLER, 35d5010d7789b49d
-sovrn.com, 375328, RESELLER, fafdf38b16bf6b2b
-lijit.com, 375328, RESELLER, fafdf38b16bf6b2b
-beachfront.com, 14804, RESELLER, e2541279e8e2ca4d
-improvedigital.com, 2050, RESELLER
-mintegral.com, 10043, RESELLER, 0aeed750c80d6423
-sonobi.com, 7f5fa520f8, RESELLER, d1a215d9eb5aee9e
-indexexchange.com, 192410, RESELLER, 50b1c356f2c5c8fc
-smartadserver.com, 4125, RESELLER, 060d053dcf45cbf3
-ogury.com, 0846bb3e-49b2-4f45-97f2-eb808c71c416, RESELLER
-gumgum.com, 15875, RESELLER, ffdef49475d318a9
-rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807
-pubmatic.com, 157897, RESELLER, 5d62403b186f2ace
-appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
-contextweb.com, 558355, RESELLER, 89ff185a4c4e857c
-openx.com, 537149485, RESELLER, 6a698e2ec38604c6
-improvedigital.com, 1884, RESELLER
-smartadserver.com, 4005, RESELLER, 060d053dcf45cbf3
-imds.tv, 82151, RESELLER, ae6c32151e71f19d
-admanmedia.com, 799, RESELLER
-revcontent.com, 110029, RESELLER
-google.com, pub-3848273848634341, RESELLER, f08c47fec0942fa0
-xandr.com, 7847, RESELLER, f5ab79cb980f11d1 #Hb #tam
-conversantmedia.com, 40824, DIRECT, 03113cd04947736d
-admanmedia.com, 2050, RESELLER
-rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
-yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
-appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
-openx.com, 540031703, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
-lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
-conversantmedia.com, 42046, RESELLER, 03113cd04947736d
-appnerve.com, 187287, RESELLER
-criteo.com, B-068074, DIRECT, 9fac4a4a87c2a44f
-themediagrid.com, Q1VB5D, DIRECT, 35d5010d7789b49d
-improvedigital.com, 1914, RESELLER
-improvedigital.com, 2309, RESELLER
-indexexchange.com, 184311, RESELLER, 50b1c356f2c5c8fc
-indexexchange.com, 194311, RESELLER
-indexexchange.com, 191876, RESELLER, 50b1c356f2c5c8fc
-indexexchange.com, 202400, RESELLER, 50b1c356f2c5c8fc #tam
-indexexchange.com, 187063, RESELLER, 50b1c356f2c5c8fc #ob
-rubiconproject.com, 23774, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 17262, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 18132, RESELLER, 0bfd66d529a55807 #ob
-openx.com, 537144083, RESELLER, 6a698e2ec38604c6
-openx.com, 540251318, RESELLER, 6a698e2ec38604c6
-openx.com, 543531784, RESELLER, 6a698e2ec38604c6 #ob
-openx.com, 559611024, RESELLER, 6a698e2ec38604c6 #TAM
-rhythmone.com, 1022945102, DIRECT, a670c89d4a324e47
-rhythmone.com, 1223411471, DIRECT, a670c89d4a324e47 #ob
-sharethrough.com, c7f387ce, DIRECT, d53b998a7bd4ecd2
-sharethrough.com, 9kfhLUI1, DIRECT, d53b998a7bd4ecd2
-sharethrough.com, c7f387ce, RESELLER, d53b998a7bd4ecd2
-indexexchange.com, 186046, RESELLER, 50b1c356f2c5c8fc
-spotxchange.com, 212457, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 212457, RESELLER
-spotx.tv, 212457, RESELLER, 7842df1d2fe2db34
-pubmatic.com, 156557, RESELLER, 5d62403b186f2ace
-pubmatic.com, 158723, RESELLER, 5d62403b186f2ace
-33across.com, 0013300001kQj2HAAS, RESELLER
-sharethrough.com, 04b275d9, RESELLER, d53b998a7bd4ecd2 #ob
-sharethrough.com, HVY3QAFT, RESELLER, d53b998a7bd4ecd2
-video.unrulymedia.com, 266978658, RESELLER
-sovrn.com, 259022, DIRECT, fafdf38b16bf6b2b
-lijit.com, 259022, DIRECT, fafdf38b16bf6b2b
+aps.amazon.com, 5d8ed25e-57cc-441a-b62a-127b34faae4e, 直达
+yahoo.com, 59704, 经销商, e1a5b5b6e3255540 #VM-tag
+sharethrough.com, ZXZlB4L7, 直接, d53b998a7bd4ecd2
+rubiconproject.com, 18694, 经销商, 0bfd66d529a55807
+openx.com, 540274407, 经销商, 6a698e2ec38604c6
+33across.com, 0013300001kQj2HAAS, 经销商, bbea06d9c4d2853c
+smaato.com，1100047713，经销商，07bcf65f187117b4
+yahoo.com, 59531, 经销商, e1a5b5b6e3255540
+smartadserver.com, 4342, 经销商
+teads.tv, 25843, 直达, 15a9c44f6d26cbe1z
+rwadx.com, rw209mtasduinzgsxqpriqyfejxvmubnylu63e2356c0a23b, 直接
+readwhere.digital, rd891fiofzktecyodvubtsyqhutsincexqe63e23569bf264, 直接
+freewheel.tv, 1599079, 直达
+freewheel.tv, 1599080, 经销商
+Incrementx.com, 100161, 直通, 8728b7e97e589da4
+pubmatic.com, 163277, 经销商, 5d62403b186f2ace
+lijit.com, 381276-eb, 经销商, fafdf38b16bf6b2b
+rubiconproject.com, 22884, 经销商, 0bfd66d529a55807
+# 柔板
+adagio.io, 1416, 直接
+rubiconproject.com, 19116, 经销商, 0bfd66d529a55807
+pubmatic.com, 159110, 经销商, 5d62403b186f2ace
+improvedigital.com，1790，经销商
+onetag.com, 6b859b96c564fbe, 经销商
+appnexus.com, 13099, 经销商
+pubmatic.com, 161593, 经销商, 5d62403b186f2ace
+rubiconproject.com, 11006, 经销商, 0bfd66d529a55807
+33across.com, 0015a00002oUk4aAAC, 经销商, bbea06d9c4d2853c
+yahoo.com, 57289, 经销商, e1a5b5b6e3255540
+appnexus.com，10239，经销商，f5ab79cb980f11d1
+rubiconproject.com, 16414, 经销商, 0bfd66d529a55807
+pubmatic.com, 156423, 经销商, 5d62403b186f2ace
+rubiconproject.com, 21642, 经销商, 0bfd66d529a55807
+conversantmedia.com, 100141, 经销商
+indexexchange.com, 191973, 经销商, 50b1c356f2c5c8fc
+lijit.com, 367236, 经销商, fafdf38b16bf6b2b
+openx.com, 538959099, 经销商, 6a698e2ec38604c6
+rubiconproject.com, 17960, 经销商, 0bfd66d529a55807
+freewheel.tv, 1568036, 经销商
+freewheel.tv, 1568041, 经销商
+openx.com, 558899373, 经销商, 6a698e2ec38604c6
+e-planning.net，83c06e81531537f4，经销商，c1ba615865ed87b2
+pubmatic.com, 156631, 经销商, 5d62403b186f2ace
+openx.com, 541031350, 经销商, 6a698e2ec38604c6
+rubiconproject.com, 12186, 经销商, 0bfd66d529a55807
+video.unrulymedia.com, 5672421953199218469, 经销商
+indexexchange.com, 194558, 经销商
+smartadserver.com, 3554, 经销商
+video.unrulymedia.com, 2564526802, 经销商
+sharethrough.com, OAW69Fon, 经销商, d53b998a7bd4ecd2
+Triplelift.com，13482，经销商，6c33edb13117fd86
+# 阿达佩克斯
+yahoo.com, 59988, 直达, e1a5b5b6e3255540
+pubmatic.com, 157007, 直达, 5d62403b186f2ace
+aps.amazon.com, 1ad7261b-91ea-4b6f-b9e9-b83522205b75, 直达
+appnexus.com，7847，经销商，f5ab79cb980f11d1
+rubiconproject.com, 18020, 经销商, 0bfd66d529a55807
+openx.com, 540191398, 经销商, 6a698e2ec38604c6
+smaato.com，1100044650，经销商，07bcf65f187117b4
+ad- Generation.jp、12474、经销商、7f4ea9029ac04e53
+Districtm.io，100962，经销商，3fd707be9c4527c3
+appnexus.com，3663，经销商，f5ab79cb980f11d1
+rhythmone.com, 1654642120, 经销商, a670c89d4a324e47
+giggum.com，14141，经销商，ffdef49475d318a9
+sharethrough.com，7144eb80，经销商，d53b998a7bd4ecd2
+emxdgt.com，2009，经销商，1e1d41537f7cad7f
+contextweb.com, 562541, 经销商, 89ff185a4c4e857c
+themediagrid.com, JTQKMP, 经销商, 35d5010d7789b49d
+sovrn.com, 375328, 经销商, fafdf38b16bf6b2b
+lijit.com, 375328, 经销商, fafdf38b16bf6b2b
+beachfront.com, 14804, 经销商, e2541279e8e2ca4d
+improvedigital.com，2050，经销商
+mintegral.com, 10043, 经销商, 0aeed750c80d6423
+sonobi.com、7f5fa520f8、经销商、d1a215d9eb5aee9e
+indexexchange.com, 192410, 经销商, 50b1c356f2c5c8fc
+smartadserver.com, 4125, 经销商, 060d053dcf45cbf3
+ogury.com, 0846bb3e-49b2-4f45-97f2-eb808c71c416, 经销商
+giggum.com，15875，经销商，ffdef49475d318a9
+rubiconproject.com, 23434, 经销商, 0bfd66d529a55807
+pubmatic.com, 157897, 经销商, 5d62403b186f2ace
+appnexus.com，2758，经销商，f5ab79cb980f11d1
+contextweb.com, 558355, 经销商, 89ff185a4c4e857c
+openx.com, 537149485, 经销商, 6a698e2ec38604c6
+improvedigital.com，1884，经销商
+smartadserver.com, 4005, 经销商, 060d053dcf45cbf3
+imds.tv, 82151, 经销商, ae6c32151e71f19d
+admanmedia.com, 799, 经销商
+revcontent.com, 110029, 经销商
+google.com，pub-3848273848634341，经销商，f08c47fec0942fa0
+xandr.com，7847，经销商，f5ab79cb980f11d1 #Hb #tam
+conversantmedia.com, 40824, 直拨电话, 03113cd04947736d
+admanmedia.com, 2050, 经销商
+rubiconproject.com, 23644, 经销商, 0bfd66d529a55807
+yahoo.com, 55771, 经销商, e1a5b5b6e3255540
+appnexus.com，4052，经销商，f5ab79cb980f11d1
+openx.com, 540031703, 经销商, 6a698e2ec38604c6
+pubmatic.com, 158100, 经销商, 5d62403b186f2ace
+lijit.com, 411121, 经销商, fafdf38b16bf6b2b #SOVRN
+conversantmedia.com, 42046, 经销商, 03113cd04947736d
+appnerve.com, 187287, 经销商
+criteo.com, B-068074, 直销, 9fac4a4a87c2a44f
+themediagrid.com, Q1VB5D, 直接, 35d5010d7789b49d
+improvedigital.com，1914，经销商
+improvedigital.com，2309，经销商
+indexexchange.com, 184311, 经销商, 50b1c356f2c5c8fc
+indexexchange.com, 194311, 经销商
+indexexchange.com, 191876, 经销商, 50b1c356f2c5c8fc
+indexexchange.com, 202400, 经销商, 50b1c356f2c5c8fc #tam
+indexexchange.com, 187063, 经销商, 50b1c356f2c5c8fc #ob
+rubiconproject.com, 23774, 经销商, 0bfd66d529a55807
+rubiconproject.com, 17262, 经销商, 0bfd66d529a55807
+rubiconproject.com, 18132, 经销商, 0bfd66d529a55807 #ob
+openx.com, 537144083, 经销商, 6a698e2ec38604c6
+openx.com, 540251318, 经销商, 6a698e2ec38604c6
+openx.com, 543531784, 经销商, 6a698e2ec38604c6 #ob
+openx.com，559611024，经销商，6a698e2ec38604c6 #TAM
+rhythmone.com, 1022945102, 直达, a670c89d4a324e47
+rhythmone.com, 1223411471, 直达, a670c89d4a324e47 #ob
+sharethrough.com, c7f387ce, 直接, d53b998a7bd4ecd2
+sharethrough.com, 9kfhLUI1, 直接, d53b998a7bd4ecd2
+sharethrough.com、c7f387ce、经销商、d53b998a7bd4ecd2
+indexexchange.com, 186046, 经销商, 50b1c356f2c5c8fc
+spotxchange.com, 212457, 经销商, 7842df1d2fe2db34
+spotxchange.com, 212457, 经销商
+spotx.tv, 212457, 经销商, 7842df1d2fe2db34
+pubmatic.com, 156557, 经销商, 5d62403b186f2ace
+pubmatic.com, 158723, 经销商, 5d62403b186f2ace
+33across.com，0013300001kQj2HAAS，经销商
+sharethrough.com，04b275d9，经销商，d53b998a7bd4ecd2 #ob
+sharethrough.com, HVY3QAFT, 经销商, d53b998a7bd4ecd2
+video.unrulymedia.com, 266978658, 经销商
+sovrn.com, 259022, 直通, fafdf38b16bf6b2b
+lijit.com, 259022, 直达, fafdf38b16bf6b2b
 lijit.com, 259022, DIRECT, fafdf38b16bf6b2b #SOVRN
 lijit.com, 259022-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
 lijit.com, 259022-eb, DIRECT, fafdf38b16bf6b2b #ob
-appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
-video.unrulymedia.com, 12444764291, RESELLER
-adtelligent.com, 554204, DIRECT
-bidmatic.io, b-82687, DIRECT
-jfacassoc.com, 1621, DIRECT
-video.unrulymedia.com, 3139274702404301777, DIRECT
-onetag.com, 59a18369e249bfb, DIRECT
-media.net, 8CU816538, DIRECT
-lijit.com, 310770, DIRECT, fafdf38b16bf6b2b
-openx.com, 541177116, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 161562, RESELLER, 5d62403b186f2ace
-loopme.com, 11378, RESELLER
-152media.info, 152M10, RESELLER
-xandr.com, 11924, RESELLER, f5ab79cb980f11d1
-xandr.com, 3153, RESELLER, f5ab79cb980f11d1
-orangeclickmedia.com, ach5lxtq1pmgjoz4, RESELLER, cd730d2f56b472c4
-adform.com, 2656, RESELLER, 9f5210a2f0999e32
-catapultx.com, 161341, RESELLER
-xandr.com, 13416, RESELLER, f5ab79cb980f11d1
-rubiconproject.com, 25230, RESELLER, 0bfd66d529a55807
-xandr.com, 14674, RESELLER, f5ab79cb980f11d1
-33across.com, 0010b00002T3JniAAF, RESELLER, bbea06d9c4d2853c
-onetag.com, 59a18369e249bfb, RESELLER
-video.unrulymedia.com, 3139274702404301777, RESELLER, 6f752381ad5ec0e5
-rubiconproject.com, 20086, RESELLER, 0bfd66d529a55807
-markappmedia.site, 533994, RESELLER
-appnexus.com, 14416, RESELLER, f5ab79cb980f11d1
-vidoomy.com, 2252369, RESELLER
-seedtag.com, 6752-1716-01, DIRECT
-xandr.com, 4009, DIRECT
-advertising.com, 29034, DIRECT
-smartadserver.com, 3050, DIRECT
-seedtag.com, 61debd20903e3707004cffe3, DIRECT
-rubiconproject.com, 17280, DIRECT, 0bfd66d529a55807
-pubmatic.com, 157743, DIRECT, 5d62403b186f2ace
-spotxchange.com, 249286, DIRECT, 7842df1d2fe2db34
-spotx.tv, 249286, DIRECT, 7842df1d2fe2db34
-33across.com, 0010b00002MptHCAAZ, DIRECT, bbea06d9c4d2853c
-yahoo.com, 58578, DIRECT, e1a5b5b6e3255540
-aol.com, 58578, DIRECT, e1a5b5b6e3255540
-adyoulike.com, 83d15ef72d387a1e60e5a1399a2b0c03, DIRECT, 4ad745ead2958bf7
-indexexchange.com, 191730, DIRECT, 50b1c356f2c5c8fc
-improvedigital.com, 1680, RESELLER
-adform.com, 1889, RESELLER, 9f5210a2f0999e32
-smartadserver.com, 2938, RESELLER
-sovrn.com, 397546, DIRECT, fafdf38b16bf6b2b
-lijit.com, 397546, DIRECT, fafdf38b16bf6b2b
-onetag.com, 75601b04186d260, DIRECT
-richaudience.com, ns9qrKJLKD, DIRECT
-xandr.com, 4009, DIRECT, f5ab79cb980f11d1
-appnexus.com, 11664, RESELLER #banner
-indexexchange.com, 184349, RESELLER, 50b1c356f2c5c8fc
-openx.com, 544096208, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 155967, RESELLER, 5d62403b186f2ace
-triplelift.com, 2792, RESELLER, 6c33edb13117fd86
-indexexchange.com, 191730, RESELLER, 50b1c356f2c5c8fc
-improvedigital.com, 1680, DIRECT
-rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+appnexus.com，1019，经销商，f5ab79cb980f11d1
+video.unrulymedia.com, 12444764291, 经销商
+adtelligent.com, 554204, 直达
+bidmatic.io, b-82687, 直接
+jfacassoc.com, 1621, 直接
+video.unrulymedia.com, 3139274702404301777, 直达
+onetag.com, 59a18369e249bfb, 直销
+media.net, 8CU816538, 直达
+lijit.com, 310770, 直通, fafdf38b16bf6b2b
+openx.com, 541177116, 经销商, 6a698e2ec38604c6
+pubmatic.com, 161562, 经销商, 5d62403b186f2ace
+loopme.com, 11378, 经销商
+152media.info, 152M10, 经销商
+xandr.com，11924，经销商，f5ab79cb980f11d1
+xandr.com，3153，经销商，f5ab79cb980f11d1
+orangeclickmedia.com, ach5lxtq1pmgjoz4, 经销商, cd730d2f56b472c4
+adform.com, 2656, 经销商, 9f5210a2f0999e32
+catapultx.com, 161341, 经销商
+xandr.com，13416，经销商，f5ab79cb980f11d1
+rubiconproject.com, 25230, 经销商, 0bfd66d529a55807
+xandr.com，14674，经销商，f5ab79cb980f11d1
+33across.com，0010b00002T3JniAAF，经销商，bbea06d9c4d2853c
+onetag.com, 59a18369e249bfb, 经销商
+video.unrulymedia.com, 3139274702404301777, 经销商, 6f752381ad5ec0e5
+rubiconproject.com, 20086, 经销商, 0bfd66d529a55807
+markappmedia.site, 533994, 经销商
+appnexus.com，14416，经销商，f5ab79cb980f11d1
+vidoomy.com, 2252369, 经销商
+seedtag.com, 6752-1716-01，直达
+xandr.com, 4009, 直达
+advertising.com, 29034, 直接
+smartadserver.com, 3050, 直接
+seedtag.com, 61debd20903e3707004cffe3, 直接
+rubiconproject.com, 17280, 直达, 0bfd66d529a55807
+pubmatic.com, 157743, 直达, 5d62403b186f2ace
+spotxchange.com, 249286, 直达, 7842df1d2fe2db34
+spotx.tv, 249286, 直达, 7842df1d2fe2db34
+33across.com, 0010b00002MptHCAAZ, 直通, bbea06d9c4d2853c
+yahoo.com, 58578, 直达, e1a5b5b6e3255540
+aol.com, 58578, 直接, e1a5b5b6e3255540
+adyoulike.com, 83d15ef72d387a1e60e5a1399a2b0c03, 直接, 4ad745ead2958bf7
+indexexchange.com, 191730, 直接, 50b1c356f2c5c8fc
+improvedigital.com，1680，经销商
+adform.com, 1889, 经销商, 9f5210a2f0999e32
+smartadserver.com, 2938, 经销商
+sovrn.com, 397546, 直销, fafdf38b16bf6b2b
+lijit.com, 397546, 直销, fafdf38b16bf6b2b
+onetag.com, 75601b04186d260, 直达
+richaudience.com, ns9qrKJLKD, 直接
+xandr.com, 4009, 直接, f5ab79cb980f11d1
+appnexus.com, 11664, 经销商 #banner
+indexexchange.com, 184349, 经销商, 50b1c356f2c5c8fc
+openx.com, 544096208, 经销商, 6a698e2ec38604c6
+pubmatic.com, 155967, 经销商, 5d62403b186f2ace
+Triplelift.com，2792，经销商，6c33edb13117fd86
+indexexchange.com, 191730, 经销商, 50b1c356f2c5c8fc
+improvedigital.com，1680，直接
+rubiconproject.com, 20736, 经销商, 0bfd66d529a55807
 pubmatic.com, 160925, RESELLER, 5d62403b186f2ace
 adform.com, 1889, RESELLER
 adyoulike.com, 83d15ef72d387a1e60e5a1399a2b0c03, DIRECT
