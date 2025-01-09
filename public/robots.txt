@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yanderedarkelf.com/sitemap.xml 
+Allow: /ads.txt
+Sitemap: https://yanderedarkelf.com/sitemap.xml
